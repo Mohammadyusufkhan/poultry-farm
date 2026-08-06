@@ -1,0 +1,6 @@
+# Robots.txt for A Imam Poultry Farm
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: https://aimam-poultry-farm.vercel.app/sitemap.xml
