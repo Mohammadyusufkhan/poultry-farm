@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-# Sitemap URL
-Sitemap: https://aimam-poultry-farm.vercel.app/sitemap.xml
+# Sitemap URL for Google Search Console
+Sitemap: https://www.aimampoultryfarm.online/sitemap.xml

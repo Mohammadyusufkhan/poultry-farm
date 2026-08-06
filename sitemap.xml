@@ -6,7 +6,7 @@
 
   <!-- Main Homepage -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/</loc>
+    <loc>https://www.aimampoultryfarm.online/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
@@ -14,7 +14,7 @@
 
   <!-- Section Deep Link: Home -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#home</loc>
+    <loc>https://www.aimampoultryfarm.online/#home</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
@@ -22,7 +22,7 @@
 
   <!-- Section Deep Link: About Us -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#about</loc>
+    <loc>https://www.aimampoultryfarm.online/#about</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
@@ -30,7 +30,7 @@
 
   <!-- Section Deep Link: Our Farm -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#farm</loc>
+    <loc>https://www.aimampoultryfarm.online/#farm</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
@@ -38,7 +38,7 @@
 
   <!-- Section Deep Link: Products -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#products</loc>
+    <loc>https://www.aimampoultryfarm.online/#products</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
@@ -46,7 +46,7 @@
 
   <!-- Section Deep Link: Gallery -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#gallery</loc>
+    <loc>https://www.aimampoultryfarm.online/#gallery</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
@@ -54,7 +54,7 @@
 
   <!-- Section Deep Link: Location & Directions -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#location</loc>
+    <loc>https://www.aimampoultryfarm.online/#location</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
@@ -62,7 +62,7 @@
 
   <!-- Section Deep Link: Contact Us -->
   <url>
-    <loc>https://aimam-poultry-farm.vercel.app/#contact</loc>
+    <loc>https://www.aimampoultryfarm.online/#contact</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
